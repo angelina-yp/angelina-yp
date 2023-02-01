@@ -27,8 +27,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/104057573/214549300-0558168f-aea0-4589-816f-53e648fe0607.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104057573/214549659-407136cf-da42-4450-a574-89ba3c8e24d0.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/104057573/216163737-a2d9c368-48fc-462f-81cf-2cbdd874b1da.png" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104057573/214549974-abd22781-5752-4951-8b8b-cc6974fc289b.png" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104057573/214408031-f65ea4ec-396f-43d1-bb59-caee797d2395.png" title="Charles" **alt="Charles" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104057573/214412693-e934a58b-f2f5-42a8-b475-418b251e5250.png" title="DBeaber" **alt="DBeaber" width="40" height="40"/>&nbsp;
