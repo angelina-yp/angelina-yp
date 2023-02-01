@@ -33,5 +33,7 @@
   <img src="https://user-images.githubusercontent.com/104057573/214412693-e934a58b-f2f5-42a8-b475-418b251e5250.png" title="DBeaber" **alt="DBeaber" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104057573/214548410-47d5cdb9-a9e5-416d-82a9-4e9dc3a5298f.png" title="android_studio" **alt="android_studio" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/104057573/216164182-ec219f7a-67eb-40ed-97f0-2748c7c3e6fc.png" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/104057573/216164286-4d7b77ad-2ddd-4e63-b688-74224d1fa325.png" title="Git_branch" **alt="Git_branch" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/104057573/216164704-d40ae7c5-070e-4afa-8240-7d976a7db58b.png" title="Chrom" **alt="Chrom" width="40" height="40"/>&nbsp;
 </div>
 
