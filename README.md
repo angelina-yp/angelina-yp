@@ -19,7 +19,7 @@
 
 📈 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Charles, Fiddler, JavaScript, MySQL;
 
-👀📚 I have read the books "Software Testing" by Svyatoslav Kulikov, "Testing Dot Com" by Roman Savin, "What is testing?" by Olga Nazina;
+👀📚 I have read the books "Software Testing" by Svyatoslav Kulikov, "Testing Dot Com" by Roman Savin, "What is testing?" by Olga Nazina, "A Practitioner's Guide to Software Test Design" by Lee Copeland;
 
 📫 How to reach me: angelina-yp@rambler.ru
 
