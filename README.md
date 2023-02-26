@@ -15,7 +15,7 @@
 👋 Hi, I’m Angelina Poleshchuk
 
 
-📚 QA Engineer (student of QA course by Vadim Ksendzov);
+🎓 QA Engineer (student of QA course by Vadim Ksendzov);
 
 
 👀📚 I have read the books
