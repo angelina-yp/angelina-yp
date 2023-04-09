@@ -24,7 +24,7 @@
 "Testing Dot Com" by Roman Savin,
 "What is testing?" by Olga Nazina,
 "A Practitioner's Guide to Software Test Design" by Lee Copeland,
-"How Google tests software" by  James A. Whittaker, Jason Arbon, Jeff Carollo;
+"How Google tests software" by  James A. Whittaker, Jason Arbon, Jeff Carollo.
 ```
 📫 How to reach me: angelina-yp@rambler.ru
 
