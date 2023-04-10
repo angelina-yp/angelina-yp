@@ -18,7 +18,7 @@
 🎓 QA Engineer (student of QA course by Vadim Ksendzov);
 
 
-👀📚 I have read the books
+👀📚 I have read the books:
 ```txt
 "Software Testing" by Svyatoslav Kulikov, 
 "Testing Dot Com" by Roman Savin,
