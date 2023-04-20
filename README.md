@@ -29,7 +29,7 @@
 📫 How to reach me: angelina-yp@rambler.ru
 
 
-📈 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Trello, Charles, Fiddler, DBeaber, JavaScript, MySQL;
+📈 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Trello, Charles, Fiddler, DBeaber, JavaScript, Python, MySQL;
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://user-images.githubusercontent.com/104057573/214549300-0558168f-aea0-4589-816f-53e648fe0607.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
