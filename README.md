@@ -23,8 +23,8 @@
 1."Software Testing" by Svyatoslav Kulikov; 
 2."Testing Dot Com" by Roman Savin;
 3."What is testing?" by Olga Nazina;
-"A Practitioner's Guide to Software Test Design" by Lee Copeland;
-"How Google tests software" by  James A. Whittaker, Jason Arbon, Jeff Carollo.
+4."A Practitioner's Guide to Software Test Design" by Lee Copeland;
+5."How Google tests software" by  James A. Whittaker, Jason Arbon, Jeff Carollo.
 ```
 📫 How to reach me: angelina-yp@rambler.ru
 
