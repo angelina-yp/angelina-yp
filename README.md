@@ -26,6 +26,7 @@
 4."A Practitioner's Guide to Software Test Design" by Lee Copeland;
 5."How Google tests software" by  James A. Whittaker, Jason Arbon, Jeff Carollo.
 ```
+
 📫 How to reach me: angelina-yp@rambler.ru
 
 
