@@ -45,4 +45,3 @@
    <img src="https://user-images.githubusercontent.com/104057573/216164286-4d7b77ad-2ddd-4e63-b688-74224d1fa325.png" title="Git_branch" **alt="Git_branch" width="40" height="40"/>&nbsp;
    <img src="https://user-images.githubusercontent.com/104057573/216164704-d40ae7c5-070e-4afa-8240-7d976a7db58b.png" title="Chrom" **alt="Chrom" width="40" height="40"/>&nbsp;
 </div>
-
