@@ -32,6 +32,7 @@
 
 📈 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Trello, Charles, Fiddler, DBeaber, JavaScript, Python, MySQL;
 :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://user-images.githubusercontent.com/104057573/214549300-0558168f-aea0-4589-816f-53e648fe0607.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://user-images.githubusercontent.com/104057573/224570454-588d4e60-56e0-4b07-83e9-ac45a7252cbb.png" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
