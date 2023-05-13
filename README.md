@@ -18,6 +18,7 @@
 
 👀📚 I have read the books:
 
+
 ```txt
 1."Software Testing" by Svyatoslav Kulikov; 
 2."Testing Dot Com" by Roman Savin;
