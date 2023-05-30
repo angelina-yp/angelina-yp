@@ -14,6 +14,7 @@
 :woman_technologist:
 👋 Hi, I’m Anzhelina Poleshchuk
 
+
 🎓 QA Engineer (student of QA course by Vadim Ksendzov);
 
 👀📚 I have read the books:
