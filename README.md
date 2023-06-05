@@ -29,7 +29,6 @@
 
 📫 How to reach me: angelina-yp@rambler.ru
 
-
 📈 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Trello, Charles, Fiddler, DBeaber, JavaScript, Python, MySQL;
 :hammer_and_wrench: Languages and Tools :
 
