@@ -2,7 +2,6 @@
  Hello, world! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/>
 </div>
